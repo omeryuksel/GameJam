@@ -2,21 +2,20 @@ Initialize engine version: 4.5.1f3 (73cd57f80e3e)
 GfxDevice: creating device client; threaded=1
 Direct3D:
     Version:  Direct3D 11.0 [level 11.0]
-    Renderer: AMD RADEON HD 6450 (ID=0x6779)
+    Renderer: AMD Radeon HD 7450 (ID=0x677b)
     Vendor:   ATI
-    VRAM:     1009 MB
+    VRAM:     1011 MB
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\omer\Documents\camera movement\deneme_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\omer\Documents\camera movement\deneme_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\omer\Documents\camera movement\deneme_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
-Loading C:\Users\omer\Documents\camera movement\deneme_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
-Platform assembly: C:\Users\omer\Documents\camera movement\deneme_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\omer\Documents\camera movement\deneme_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\omer\Documents\camera movement\deneme_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
-Loading C:\Users\omer\Documents\camera movement\deneme_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
-- Completed reload, in  0.049 seconds
+Platform assembly: C:\depolar\GameJam\deneme_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\depolar\GameJam\deneme_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\depolar\GameJam\deneme_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\depolar\GameJam\deneme_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\depolar\GameJam\deneme_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\depolar\GameJam\deneme_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\depolar\GameJam\deneme_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\depolar\GameJam\deneme_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+- Completed reload, in  0.041 seconds
 <RI> Initializing input.
-XInput1_3.dll not found.
 <RI> Input initialized.
-desktop: 1920x1080 60Hz; virtual: 3840x1080 at -1920,0
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
 WARNING: Shader Unsupported: 'Toon/Basic Outline' - Pass 'OUTLINE' shader state not supported
